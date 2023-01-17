@@ -7,3 +7,4 @@ KNN, Naive Bayes, SVM, Decision Tree and Random
 Forest classifiers. 
 - The result shows that the Random Forest 
 achieved highest accuracy of 81.506.
+- The proposed ml model is deployed into a webpage using streamlit in python
