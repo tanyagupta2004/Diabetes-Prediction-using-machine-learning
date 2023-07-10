@@ -10,5 +10,6 @@ achieved highest accuracy of 81.506.
 - The proposed machine learning model is deployed into a webpage using streamlit in python
 
 _**Web Intefrace Cretaed using Streamlit**_
+
 <img width="336" alt="webInterface" src="https://github.com/tanyagupta2004/Diabetes-Prediction-using-machine-learning/assets/82495563/b3f86262-56d9-4666-9282-7b78cee3c020">
 
